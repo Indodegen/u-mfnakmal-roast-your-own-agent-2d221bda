@@ -1,0 +1,1 @@
+My agent writes 500 lines of code to avoid asking me one question, then asks me three questions about the code.
